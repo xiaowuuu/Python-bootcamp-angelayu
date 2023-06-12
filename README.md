@@ -8,3 +8,8 @@ The append() mathod adds an item to the end of the given list.
 ### Day 6
 61. Indentation in Python <br>
 https://peps.python.org/pep-0008/#indentation
+
+### Day 7
+build a hangman game with while loop, learned position, import, for...in 
+### Day 8
+difference between arguments and parameters<br>
