@@ -10,6 +10,10 @@ The append() mathod adds an item to the end of the given list.
 https://peps.python.org/pep-0008/#indentation
 
 ### Day 7
-build a hangman game with while loop, learned position, import, for...in 
+build a hangman game with while loop, learned position, import, for...in<br> 
 ### Day 8
 difference between arguments and parameters<br>
+### Day 9
+nesting, local and global scope<br>
+### Day 10
+the differences between print vs return in python<br>
